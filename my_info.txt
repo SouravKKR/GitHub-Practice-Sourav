@@ -1,1 +1,3 @@
-Hello this is my_info.txt
+Name: Sourav
+Course: DevSecOps
+Favorite Programming Language: C++
